@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jun 23 09:58:14 2022
+# Make data base, printed on Thu Jun 23 21:20:12 2022
 
 # Variables
 
@@ -65,7 +65,7 @@ CURDIR := /home/jackie/Theater/Mapmosphere/tests/mphere_server_test
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
@@ -125,7 +125,7 @@ MAKEFILES :=
 # environment
 LESS_TERMCAP_mb = [1;31m
 # environment
-WT_SESSION = cf629273-ebe0-4777-96a5-2d74f7df8517
+WT_SESSION = 1188018c-1807-4a3e-9103-da93211acc27
 # environment
 VSCODE_LOG_NATIVE = false
 # automatic
@@ -163,7 +163,7 @@ XDG_RUNTIME_DIR = /mnt/wslg/runtime-dir
 # environment
 _CE_M = 
 # environment
-VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-89337d99-4b47-4826-a65d-b021fb3b9abe.sock
+VSCODE_IPC_HOOK_CLI = /mnt/wslg/runtime-dir/vscode-ipc-b3459632-adbd-4dad-917f-1107a11d3735.sock
 # environment
 NVM_CD_FLAGS = 
 # environment
@@ -250,6 +250,6 @@ all:
 # strcache performance: lookups = 23 / hit rate = 21%
 # hash-table stats:
 # Load=18/8192=0%, Rehash=0, Collisions=0/23=0%
-# Finished Make data base on Thu Jun 23 09:58:14 2022
+# Finished Make data base on Thu Jun 23 21:20:12 2022
 
  
